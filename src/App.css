@@ -57,7 +57,7 @@
 }
 
 .intro-text {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', monospace;
   font-size: 2.0rem;
   /* Slightly smaller for better mobile fit */
   font-weight: 700;
