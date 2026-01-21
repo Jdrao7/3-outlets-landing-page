@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <div className="content-wrapper">
-        <h1 className="intro-text">Where are you at?</h1>
+        <h1 className="intro-text ">Where are you at?</h1>
         <div className="venue-stack">
           {venues.map((venue) => (
             <a
